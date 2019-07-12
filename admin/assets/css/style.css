@@ -1777,11 +1777,11 @@ header .form-inline {
     color: #fff; }
     .social-button .facebook:hover {
       background: #344e86; }
-  .social-button .twitter {
-    background: #00aced;
+  .social-button .google {
+    background: #e24444;
     color: #fff; }
-    .social-button .twitter:hover {
-      background: #0099d4; }
+    .social-button .google:hover {
+      background: #bf5353; }
 
 .social-button i {
   padding: 19px; }
