@@ -1,0 +1,17 @@
+{
+  "name": "bower-firstjob",
+  "version": "1.8.8",
+  "authors": [
+    "Dinh Tuan <vudinhtuan242@gmail.com>"
+  ],
+  "description": "Website tuyen dung firstjob",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dinhtuan242/bower-firstjob.git",
+  "ignore": [
+    "README.md"
+  ]
+}
